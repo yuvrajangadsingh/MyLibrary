@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yuvraj Angad Singh - [@YuvrajAngadS](https://twitter.com/YuvrajAngadS) - yuvrajangad.s@gmail.com
 
-Project Link: [https://github.com/yurvajangadsingh/Todo-express](https://github.com/yuvrajangadsingh/Todo-express)
+Project Link: [https://github.com/yurvajangadsingh/MyLibrary](https://github.com/yuvrajangadsingh/MyLibrary)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
